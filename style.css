@@ -11,7 +11,7 @@ html{
     color: white;
 }
 img{
-    width: 100vh;
+    width: 100%;
     border: 5px white solid;
 }
 h1{
@@ -24,8 +24,10 @@ p{
     margin: 0;
 }
 div{
-    width: 50vw;
-    margin-left: 25vw;
-    margin-top: 10vh;
+    /*width: 50vw;*/
+    width: 50%;
+   /* margin-left: 25vw;
+    margin-top: 10vh;*/
+    margin: 10vh auto;
     text-align: center;
 }
