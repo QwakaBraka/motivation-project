@@ -31,3 +31,8 @@ div{
     margin: 10vh auto;
     text-align: center;
 }
+@media (max-width: 600px) {
+    div {
+        width: 95%; /* Ширина контейнера на мобильных устройствах */
+    }
+}
