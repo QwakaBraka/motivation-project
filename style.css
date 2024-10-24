@@ -15,19 +15,21 @@ html{
 img{
     /*width: 1280px;*/
     border: 5px white solid;
-    margin-bottom: 3rem;
+    /*margin-bottom: 3rem;*/
 }
 h1{
     font-family: 'Libre_Baskerville';
-    font-size: 5rem;
+    /*font-size: 5rem;*/
     color: yellowgreen;
     text-transform: uppercase;
   
 }
 p{
     margin: 0;
-    font-size: 5rem;
+    /*font-size: 5rem;*/
 }
 div{
-    margin: 7vh;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
 }
